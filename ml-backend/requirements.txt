@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-multipart
+pydantic
+opencv-python
+pyzbar
+Pillow
+geopy
+scikit-learn
+sentence-transformers
+torch
+transformers
+tensorflow
